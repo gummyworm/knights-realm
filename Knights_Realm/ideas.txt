@@ -1,0 +1,20 @@
+minigames:
+> aquarium
+> gardening
+
+
+battle system:
+Attack:
+Player draws a line (sword), point (spear), etc.  This determines where 
+they will attack the enemy. (Bryce)
+>Options:
+>>select attack, enemy attacks at the same time.  Predict enemy's position (Bryce)
+>>select block before enemy's attack and attack before enemy's block (James)
+>Multiplayer (James)
+Mounts:
+> bigger mounts status boost, move slower, easier to hit (James)
+> smaller mounts status lower, move fast, hard to hit (James)
+
+My ideas:
+> "Allies" Monster(s) to help you
+

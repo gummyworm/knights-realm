@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<sprite spritesheet="res/testsoldier1.png" w="32" h="32">
+    <animation name="move_right" start="0" stop="6" speed="20" />
+    <script name="scripttest.py" />
+</sprite>

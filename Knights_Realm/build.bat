@@ -1,0 +1,1 @@
+g++ -o kr.exe main.cpp camera.cpp texture.cpp sprite.cpp player.cpp map.cpp game.cpp tinyxml/tinyxml.cpp tinyxml/tinyxmlerror.cpp tinyxml/tinyxmlparser.cpp tinyxml/tinystr.cpp -lmingw32 -lSDLmain -lSDL -lSDL_image -lopengl32 -lglu32
